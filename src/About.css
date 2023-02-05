@@ -1,0 +1,53 @@
+.about{
+    color:aquamarine;
+    font-size: 30px;
+    text-align: left;
+    padding-left: 30px;
+    text-decoration-line: underline;
+}
+.aboutdiv{
+    background-color: black;
+    color:white;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.passions{
+    
+    text-align: left;
+    padding-right: 10px;
+    letter-spacing: 1px;
+    font-size: 15px;
+    
+}
+.welcome{
+    background-color: whitesmoke;
+    font-size: 45px;
+    font-family:'Times New Roman', Times, serif;
+    color:darkred;
+}
+.sub{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration-line: underline;
+}
+.Certs{
+    text-align: left;
+    font-weight: bold;
+    font-size: 15px;
+   
+
+}
+.CertH{
+    text-align: left;
+    color: aquamarine;
+    font-size: 25px;
+    padding-left: 30px;
+    text-decoration-line: underline;
+}
+.hi{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button{
+    cursor: pointer;
+}
